@@ -1,6 +1,6 @@
 # FluCam
 
-Flyme Camera Port for Meizu 18.
+Flyme Camera Port from Meizu 18.
 
 How to add rom?
 
