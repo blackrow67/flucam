@@ -6,11 +6,11 @@ How to add rom?
 
 First:
 
-git clone https://github.com/blackrow67/flucam.git -b beta vendor/meizu
+git clone https://github.com/blackrow67/flucam.git -b beta vendor
 
 common.mk 
 
-$(call inherit-product, vendor/meizu/flucam/config.mk)
+$(call inherit-product, vendor/flucam/config.mk)
 
 
 Working Features:
