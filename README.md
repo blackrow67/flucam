@@ -6,7 +6,7 @@ How to add rom?
 
 First:
 
-git clone https://github.com/blackrow67/flucam.git -b beta vendor
+git clone https://github.com/blackrow67/flucam.git -b beta vendor/flucam
 
 common.mk 
 
